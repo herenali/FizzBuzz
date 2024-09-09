@@ -64,13 +64,4 @@ class FizzBuzz {
 
         }
     }
-
-    public static void main() {
-        // For loop
-        for (int i = 1; i < 100; i++) {
-
-            doFizzBuzz(i);
-
-        }
-    }
 }
